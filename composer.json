@@ -1,5 +1,5 @@
 {
-  "name": "qcod/laravel-imageup",
+  "name": "nemwiper/laravel-imageup",
   "description": "Auto Image upload, resize and crop for Laravel eloquent model using Intervention image",
   "homepage": "https://github.com/qcod/laravel-imageup",
   "type": "library",
